@@ -1,4 +1,4 @@
-In my opinion, after making the requirements clear, we can be sure that the sections that the candidate uses in the resume can be exhaustive to some extent.
+After making the requirements clear, we can be sure that the sections that the candidate uses in the resume can be exhaustive to some extent.
 My guess is that we can look for a set of sections one by one. A possible approach would be:
 
 1. Create a list of all possible sections
@@ -21,8 +21,7 @@ My guess is that we can look for a set of sections one by one. A possible approa
    Regexes
    NER
    ...
-   For this, I think we need to create the skill taxonomy (or ontology). No idea where to start
-
+   For this, I think we need to create the skill taxonomy (or ontology). 
 
 
 
