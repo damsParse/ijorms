@@ -1,0 +1,26 @@
+// Formatting Ideas from Workable (workable.com)
+// They use ATS(Applicant Tracking System). They advise applicants to maintain two types of CVs (one the ATS-friendly version, and another the graphical one{if they are creative})
+
+Large headings, unusual character spacing and font choice can result in spaces being created or lost, or characters being repeated. Tables and columns will put words, and sadly sometimes letters, on different lines. So, you need to follow some basic rules to make sure your text can be extracted properly:
+
+1. Submit your CV in a text format preferably .doc or .docx. There are plenty of open source word processors that understand this format these days
+2. If you use the PDF format, make sure you export it from your word processor - don't scan your CV into an image
+3. Try to avoid headers and footers as they often get interspersed with the main body of text
+4. Use one standard font throughout the CV
+5. Don't use tables and columns as the ordering of sentences may not be what you expect
+6. Don't use WordArt
+7. Don't fiddle with character spacing
+8. Write your document on your own computer so that your metadata is correctly set. Text can be found in there too.
+9. Put your name in the filename of you CV.
+
+
+Following standars is not just about job titles and text layout. Section title are important too, as are the following standards that are recommended to follow:
+
+1. Stick to a chronological resume format, not a functional one
+2. Use typical names for section titles like "Education", "Work Experience", "Personal Details", etc.
+3. Use a date format appropriate to the country you are applying in and make sure you include dates in full(day, month and year) to make them easily identifiable
+4. Only use common and well known abbreviaitons such as CTO, MBA, etc.
+5. Use typical names for job titles and avoid fancy embellishments
+6. Use a spellchecker. Typos and misspellings make you look bad to parsers and humans alike
+
+ 
