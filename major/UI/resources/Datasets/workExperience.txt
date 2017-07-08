@@ -1,0 +1,358 @@
+Programmed foundational database to manage teams and players
+Programmed input device configuration
+Software Engineer
+Software Developer
+Intern Internship
+Volunteer
+Internship
+Extern Externship
+Implemented the user-manager authentication
+user management and warehouse management modules
+Having 4 Years 6 Months of experience in IT
+Experience in ERP Development
+Experience in Analysis Design
+Development and Testing
+Experience in Unit Testing and Documentation of the Test Results
+ARSC Research Projects Assistant
+Corporate senior IT executive
+More than 10 years as a developer
+Seven years working at Kung Fu Factory on a myriad of projects
+LabVIEW Developer Application Engineer
+Tools programmer
+Web Master
+Web Developer
+Student Worker
+Worked as ASP.Net Programmer using C# and MVC4
+Corporate 
+senior IT executive
+Computer Skills Instructor
+Prototyped unreleased AR game with the HoloLens
+Prototyped games using the Famo.us open source rendering engine
+Created character controllers and gameplay mechanics
+Developed tools for designers
+Developed a released character generator for PC
+Developed frontend UI architecture
+Created data structures to support large amounts of character data and story
+worked as a Software Developer in Cybage Software Pvt. Ltd. for a year
+Developed quality T-SQL code using HighJump software for the British Telecommunications Warehouse management system
+Utilized UML language to design various class diagrams and sequence diagrams to capture the targeted design in detailed designed document
+University Professor
+Computer Network Administrator
+General Manager of Project
+System Analyst and Software Developer
+Over twelve years of experience as a professional engineer
+Software Engineer
+Consultant
+Software Architect
+Project Lead
+Software Engineer Senior
+Systems Technician
+system technician
+system's technician
+Web Developer
+Web Programmer
+Senior Programmer with 14+ years' experience in software design
+development and testing using ASP.Net
+VB.NET
+8+ years of experience in developing Web programming using C# Object oriented (OOPS) design and development
+database programming
+ASP
+HTML
+CSS
+SQL Server 2008 2005 2000 7.0 Oracle
+Oracle Reports and Forms
+Access
+Visual Source Safe
+Team Foundation Server
+Experience with ASP.NET
+ADO.NET
+AJAX
+CSS
+HTML JavaScript
+XML
+JSON
+Extensive experience with SQL Server 2008 2005 2000 7.0 related to back end development of web and window applications
+USG Contractor
+Programmer
+Solutions Engineer
+Contractor 
+Senior Programmer
+Senior Developer
+Senior Programmer
+Director of Programming
+Application Developer
+Team Lead
+Programmer
+Systems Manager
+systems Programmer
+Having 6.2 years of experience in embedded software development
+Experience in development support and testing of QNX based applications in C and 
+C++
+Open Source Programmer
+Commissioning Specialist
+Automated Systems Programmer
+Software Engineer with 4 years of professional experience in the full software development lifecycle as a C programmer working in a UNIX environment for Hewlett Packard Enterprise
+Computer Mentor
+Analyst Programmer
+Software Engineer
+Database Administrator
+Customer Service Representative
+Externship
+VB6/VB.NET/ASP.NET developers with 2+ years commercial experience
+4 -5 Years of SAP CLM Experience
+I.T. experience in a service environment
+supporting applications software
+IT experience in a service environment
+supporting applications software
+Programming experience in Perl
+Python
+Ruby
+Shell Scripting
+C#
+JAVA
+Experience with VB6 windows application development
+experience of FEA and/or 
+composite materials
+Experience in developing Java applications using Spring or Struts and JSP
+experience with complete home automation
+multiroom installation
+Experience in developing applications using Microsoft .Net
+Experience using automated testing harnesses JUnit
+SoapUI
+Selenium
+have 3+ years commercial design experience
+Experience in developing for Windows 2K / XP / 2003 / Vista using C++ and C#
+trainer
+teacher
+trainer
+teacher
+tutor
+tutor
+CCNA Trainer
+java trainer
+CCNA Trainer
+java trainer
+4 years of commercial web software development experience;experience of Java
+a programmer with 2  two years OOD N-Tier development experience with the .NET platform
+Experience with C# or ASP.Net
+Test Analyst 
+QA Tester
+experience in developing software in a commercial software development environment
+developer
+programmer
+experience with interface design
+jsp
+java web developer
+System Admin
+System Administrator
+Experience in local area networking and Unix
+IT Trainer MCSE Trainer MCSE Tutor
+1 year solid .NET experience
+Junior Web Developer with experience of PHP
+developer
+programmer
+iphone asp developer iOS apps developer
+php trainer php programmer
+Lecturer
+system engineer
+teacher
+trainer
+Software Developer
+Apps Developer
+2 years Front End Development experience
+.net trainer
+trainer
+teacher
+lecturer
+Database Administrator DBA
+Network Administrator
+commercial experience in e-commerce development using Microsoft technologies
+three years experience of Web development within a UNIX environment and of Python Plone development work
+Experience of financial modelling and of working on large-scale commercial software projects
+Dotnet Programmer
+Java web developer
+Application analyst
+computer operator
+computer repair technician
+computer scientist
+computer analyst
+data entry clerk
+database administrator
+data analyst
+data scientist
+network analyst
+network administrator
+programmer
+security engineer
+software design
+software analyst
+software quality analyst
+system administrator
+web developer
+ASP developer
+ASP programmer
+Action script programmer
+adobe photoshop illustrator
+CSS programmer
+desktop technician
+cisco engineer
+computer artist
+computer game designer
+computer graphics designer
+computer information manager
+computer information technician
+computer systems manager
+computer system manager
+data analyst
+data communication analyst
+data communications analyst
+data communications technician
+data communication technician
+data management analyst
+data modeler
+data technician
+database developer
+database programmer
+digital artist
+game designer
+game technician
+HTML developer
+HTML programmer
+HVAC systems technician
+HVAC system technician
+technical analyst
+EDI coordinator
+Information technology manager
+IT manager
+IT analyst
+IT coordinator
+IT technician
+Information architect
+Internet solutions developer
+Internet solution developer
+javascript developer
+LAN administrator
+linux programmer
+mastercam programmer
+microsoft access database specialist
+MS access database specialist
+desktop support specialist
+NOC technician
+networking manager
+networking technician
+network manager
+network technician
+oracle database administrator
+oracle database specialist
+PC network administrator
+PHP developer
+PHP programmer
+peoplesoft developer
+perl developer
+personal computer support technician
+PC support technician
+SAP analyst
+SAP solution architect
+SQL developer
+SQL programmer
+senior java programmer
+junior java programmer
+senior oracle developer
+senior web developer
+server technology manager
+systems analyst
+system analyst
+technical analyst
+technical assistant
+technical development manager
+technical manager
+technical service support manager
+technical support manager
+technology manager
+telecommunications specialist
+telecommunication specialist
+unix administration
+video game programmer
+web administrator
+web coordinator
+web security specialist
+web specialist
+website administrator
+website coder
+wireless communications technician
+wireless communication technician
+Application developer
+application support analyst
+application engineer
+applications engineer
+associate developer
+chief technology officer CTO
+chief information officer CIO
+computer and information systems manager
+Computer Systems Manager
+Customer Support Administrator
+Customer Support Specialist
+Data Center Support Specialist
+Data Quality Manager
+database administrator
+Desktop Support Manager
+Desktop Support Specialist
+developer
+Director of Technology
+front end developer
+help desk specialist
+Help Desk Technician
+Information Technology Coordinator
+Information Technology Director
+Information Technology Manager
+IT Support Manager
+IT Support Specialist
+IT Systems Administrator
+Java Developer
+Junior Software Engineer
+Management Information Systems Director
+.NET Developer
+Network Architect
+Network Engineer
+Network Systems Administrator
+programmer
+Programmer Analyst
+Security Specialist
+Senior Applications Engineer
+Senior Database Administrator
+Senior Network Architect
+Senior Network Engineer
+Senior Network System Administrator
+Senior Programmer
+Senior Programmer Analyst
+Senior Security Specialist
+Senior Software Engineer
+Senior Support Specialist
+Senior System Administrator
+Senior System Analyst
+Senior System Architect
+Senior System Designer
+Senior Systems Analyst
+Senior Systems Software Engineer
+Senior Web Administrator
+Senior Web Developer
+Software Architect
+software developer
+Software Engineer
+Software Quality Assurance Analyst
+support specialist
+Systems Administrator
+systems analyst
+System Architect
+Systems Designer
+Systems Software Engineer
+Technical Operations Officer
+Technical Support Engineer
+technical support specialist
+Technical Specialist
+Telecommunications Specialist
+Web Administrator
+web developer
+webmaster
+Freelancer
+experience of Web Development

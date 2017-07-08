@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+<style>
+    .floating-box {
+        display: inlilne-block;
+        margin: 10px;
+    }
+</style>
+
+{% block body %}
+<h1>Here are latest jobs you can apply to:</h1><br>
+{% if jobs %}
+    {% for job in jobs %}
+        <div class="floating-box">
+            Title: {{ job.title }}
+            Post: {{ job.post }}<br>
+            <a href="{% url 'details' job.id %}"><button>Details</button></a><br><br>
+        </div>
+    {% endfor %}
+{% else %}
+    <h1>No Jobs To Show</h1>
+{% endif %}
+{% endblock %}

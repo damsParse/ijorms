@@ -1,0 +1,1061 @@
+C
+C++
+Java
+Python
+Shell Scripting
+XML
+Version Control
+Word
+Windows
+Unix
+MAC OS
+Android Development Suite
+Java
+XML
+Version Control
+C#
+SQL
+Irrlicht Game Engine
+Blender
+C++
+Excel
+AngularJS Ionic
+JavaScript
+JQuery
+AJAX
+HTML
+XML
+CSS
+PHP CodeIgniter Drupal
+Java Spring Hibernate JDBC
+C# ASP.NET
+REST API
+Node.JS Express
+MySQL
+SQL Server Tools: Visual Studio
+Chef
+Eclipse
+IntelliJ
+Git
+ORACLE SQL oracle SQL
+PL SQL
+Strong 
+Skills in ETL Tool QuickRec CITI Tool
+Strong skills in Unix Basic Commands and Shell scripts
+Oracle 9i
+PL SQL TOAD
+PL SQL Developer
+SQL*Plus
+UNIX Basic Commands and Shell Scripting
+Tectia
+ORACLE SQL
+ORACLE SQL
+PL SQL ETL DMW
+QuickRec Reconciliation
+Recon Portal
+Microsoft 
+Windows
+Unix shell
+bash
+perl
+python
+java
+swift
+C#
+Assembly
+C++
+C#
+Visual C#
+ORACLE
+VHDL
+Java
+Javascript
+XHTML
+CSS
+Web Application And ASP.NET
+DHTML
+HTML5
+Eclipse
+Adobe Illustrator
+Design Programs Photoshop
+Microsoft Word
+Microsoft Excel
+Microsoft Access
+Microsoft PowerPoint
+Internet and Email
+C C++ C#
+Lua
+Python
+Java
+Unity3D
+Perforce
+Atari BASIC
+console game development
+face recognition
+Lua and Python scripting languages
+Microsoft Xbox 360 the Sony PS3
+Nintendo Wii
+Familiar with industry standard IDEs
+source control
+bug tracking solutions
+Proficient and experienced with Microsoft Visual Studio and Team Foundation Server
+Familiar with interfacing with custom APIs and middleware libraries
+National instruments LabVIEW
+Microsoft Office 2007 2003
+Microsoft SQL Server 2005
+Windows XP 2000 98
+Knowledge of Data acquisition with National instruments hardware and other supporting hardware
+Knowledge of Mobile module
+Knowledge of Vision
+knowledge of DSC Module
+Knowledge of implementing communication protocol like RS 232 RS-232 RS232 485
+virtual reality
+Maintaining server side network code
+Gameplay and ancillary programming on multiple titles including Cruis'n Wii
+Supremacy MMA
+Bellator MMA Onslaught
+Girl Fight
+Spartacus Legends
+Domo 
+Jump
+maintain a data driven animation system including synchronizing animations over a network connection
+coordinating  real world visual and other hardware sensor data for a popular theme park attraction
+porting applications between the Windows and Linux operating systems
+general programmer assistance
+Programmed user interface including multiple displays of sports statistics and player rosters
+C C++ C#
+Lua
+Python
+Java
+Unity3D
+Perforce
+knowledge of the Linux environment
+programming for mobile platforms
+Web Development PHP
+Code repositories such as Microsoft Team Foundation Bitbucket and GitHub
+IDEs such as Visual Studio
+Eclipse and Xcode
+C#
+Microsoft SQL Server
+T Sql
+Normalization
+ADO
+ASP.NET 
+MVC 5
+WPF
+HTML 5
+CSS3
+SDLC
+Visual Studio
+TFS
+CCNA
+PHP
+C# Programming
+Microsoft SQL Server T SQL scripts
+stored procedures
+triggers
+normalization
+denormalization
+performance tuning
+ADO.NET
+ASP.NET MVC 5
+Windows Presentation Foundation WPF
+Web Design HTML5 and CSS3
+Application Development C#
+Java
+Objective-C
+Python
+Amazon Web Services AWS
+Apache Hadoop
+MapReduce Amazon EMR
+MPI
+Pthreads and OpenMP
+Unit Testing 
+Visual Studio and JUnit
+Intel Intrinsics
+Oracle Database 12c
+Client Server programming
+Cisco CCNA Routing and Switching
+Java Developer
+Distributed Web Development
+Back end API
+Application developing for Machine Critical Mainframe IBM DB2 applications
+Database Management
+C
+Python
+Java
+JavaScript
+R
+Microsoft HTML5
+CSS3
+JS developer
+IBM DB2 v9 developer
+Linux Workstation Administration
+Extensive knowledge of 
+Windows Linux and Mac OS
+Assembler programmer
+C#
+SQL
+PL SQL
+HTML 5
+CSS3
+PHP
+Java
+C
+Objective C
+Python
+Scheme Common Lisp
+Prolog
+Assembly 
+MIPS
+Front end and back end developer for hybrid mobile
+Agile practitioner applications using PhoneGap
+HTML
+CSS
+JavaScript
+WordPress
+Drupal
+C
+C++
+C#
+Java
+Windows 95 98 2000 ME
+Server 2003
+XP
+Vista
+7
+8
+9
+10
+Unix
+Linux
+iOS
+Gameplay programmer on two released virtual reality 
+titles
+IBM DB2
+Oracle 11g
+VMWare
+Eclipse
+PyCharm
+Fiddler4
+Android Studio
+Windows
+Ubuntu
+MacOS Only for iOS apps Xcode4
+GitHub
+Maven repositories
+Database Management
+Adult education
+.NET
+Adobe Photoshop
+MS Office Suite
+Freemake Video Converter
+Notepad++
+MySQL
+Oracle
+Microsoft Office Expert
+C++
+C#
+Java
+CSS
+HTML
+.NET
+Eclipse
+SQL
+MySQL
+PostgreSQL
+PHP
+Javascript
+Jquery
+Drupal
+Java
+Spring
+Maven
+Tomcat
+DBeaver
+SQL
+HTML5
+CSS3
+JSON
+Bootstrap3
+Python
+Linux
+user experience and interface design
+OO best practices
+Java
+Spring
+Design Patterns
+Web Services
+HTML 5
+SOA
+Microservices
+MVC
+DAO
+REST
+web services
+design patterns
+sonar
+Agile methodologies Jira
+IDEs Eclipse Netbeans Visual Studio
+VCS Git 
+SVN
+requirements elicitation
+clean and readable documentation
+LABVIEW
+HELP DESK
+CUSTOMER SUPPORT
+LINUX
+MICROSOFT OFFICE
+MICROSOFT WINDOWS
+LabVIEW 11 to 14
+Code Refactoring
+Microsoft SQL Queries
+Experience in various operating systems Windows OSX Linux and QNX
+PC and Network 
+Troubleshooting
+Router setup
+Hands-on and proactive Network Topologies
+Computer Networking
+Microsoft Office
+Microsoft Windows
+Strong problem 
+solving troubleshooting skills
+OPC Programming
+Applications Eclipse IDE NetBeans IDE Selenium IDE
+Putty
+MS-Access
+Database tools: Oracle SQL 
+Plus
+Oracle SQL Developer
+MySQL
+Web designing: HTML
+CSS
+JavaScript
+AngularJS
+PHP
+XML
+Programming Languages Java Python C C++ PL/SQL J2EE 
+J2EE Servlets and JSP
+DBMS
+JDBC
+JavaScript
+HTML
+CSS
+PLC PROGRAMMING 7 years
+PROBLEM SOLVING 10+ years
+SOFTWARE ENGINEERING 10+ years
+Microsoft Office 10+ years
+Complex problem solving
+Software Engineering
+PLC programming
+Designing and Implementing Graphical User Interfaces
+DC Troubleshooting
+Critical Thinking
+MYSQL 8 years
+CSS 5 years
+HTML 5 years
+JAVASCRIPT 5 years
+Subversion 4 years
+ACROBAT 4 years
+jQuery 4 years
+PHP 10+ years
+MVC Framework 3 years
+PHP
+CakePHP
+SQL
+HTML
+CSS
+JavaScript including libraries jQuery
+jQuery UI
+jqGrid jqGridPHP
+HighCharts
+Perl/CGI
+MVC Framework
+Agile methodology
+E-Commerce
+MySQL
+Oracle databases
+Photoshop
+Adobe Acrobat
+Subversion
+Jira
+osTicket
+Mantis
+Wordpress
+VB.NET
+ASP.NET
+SQL
+VBA
+Dreamweaver
+Flash
+IIS
+Programming Languages C# VB.NET ASP.NET Visual Basic 6.0 PHP .NET Technologies .NET 
+Framework 1.0 1.1 2.0 3.0 3.5 4.0
+ADO.NET
+ASP.NET
+OOP
+Delegates
+Windows Services
+Assemblies Shared GAC
+ADO.NET
+Web Services WSDL SOAP JSON RESTful Web Services
+Serialization and Visual C#
+Web Technologies ASP 1.0 2.0
+D/HTML
+Java Script Jscript and VB Script
+IIS and PWS
+Database: SQL Server
+SSIS
+SSRS
+Oracle 8i 9i 10g and MS Access
+MySQL
+Design Tools Visio
+Collaboration Tools Visual Source Safe
+Team 
+Foundation Server
+Development Tools: Visual Studio .Net
+Visual Studio 6.0
+Visual Interdev 6.0
+Infragistics Controls
+Telerik Controls
+MS 
+FrontPage 2000
+Adobe studio
+XML Spy
+WordPress
+Languages C C++ SQL EB Guide Design Star UML
+Enterprise Architect
+C++ 4 years
+C Less than 1 year
+Linux Less than 1 year
+Testing 3 years
+Excel 3 years
+Team Leader 2 years
+Technology Domain Automotive domain
+IDE Microsoft 
+Visual Studio 2008 2010 VC++
+QT
+JAZZ
+OS: Windows Linux
+QNX
+AGL
+Operating systems: Windows 8
+Windows Server 2013
+Linux
+Java 4 years
+C 4 years
+SQL 4 years
+Unix Administration 4 years
+Software Development 6 years
+Programming 8 years
+AutoSys 4 years
+Java EE 4 years
+Javascript 3 years
+Spring 3 years
+Hibernate 3 years
+AngularJS 1 year
+SDLC 7 years
+HTML 5 4 years
+Gulp 1 year
+Grunt 1 year
+Node 1 year
+Servlet 
+3 years
+AJAX 2 years
+Java 5 years
+Platforms Microsoft Windows 7
+Windows 8
+Linux
+Knowledge of Microsoft Email
+Microsoft Word
+Microsoft Excel
+Microsoft Spreadsheet
+PowerPoint
+Microsoft Outlook
+PeopleSoft
+WebCT and BlackBoard
+Vmware
+3rd Line Support
+Hyper-V
+NAS
+SAN
+Firewall
+Checkpoint
+Cisco
+ipad
+iphone
+apps programming
+apps programming
+mac programming
+iPhone apps
+iphone development
+iPhone Developer
+iPhone Developer
+BigData
+Data Manager
+Data and Analytics
+SAS
+SQL
+ETL work
+SSIS
+Database Support
+Software Developing
+Unix
+Database
+Oracle
+Microsoft SQL Server
+Windows
+Analytical Skills
+ITIL
+Oracle Database
+System Design
+IT Project Management
+IT Project Coordination
+Microsoft Project 
+Management
+Project Management Tool
+Microsoft SQL
+Microsoft SQL
+Database
+Oracle
+MS SQL
+Training
+MS SQL 2012
+SQL 2008
+JavaScript
+HTML
+HTML 5
+CSS3
+jQuery
+YUI
+ExtJs
+Prototype
+Web development
+OO
+SVG
+Canvas
+ASP.NET
+CSS
+HTML
+Ajax
+CRM jQuery
+CSharp
+SQL
+Database
+MS SQL Server
+VB.net
+MVC
+ModuleViewController
+Module View Controller
+Model View Controller
+Networking
+Windows Server 2012
+C#
+C# .Net C#.NET
+C#
+C#.Net
+Database
+VB.NET Winforms
+Javascript
+HTML+CSS
+CSS
+Java
+ASP.Net
+Microsoft SharePoint
+JavaScript
+Web Services
+jQuery
+W3C
+XHTML
+MVC Framework
+XSLT
+GitHub
+Team Development
+JetBrains
+LINQ
+SQL
+Microsoft SQL Server
+NUnit
+NCover
+NHibernate
+Java programming
+jsp
+java web developing
+Cloud 
+Integration Architect
+Hands-on IT Experience
+Dell Boomi
+Dell Boomi Cloud Integration
+SOA
+Webservices
+APIs
+SOAP
+Ajax
+Android Apps Programming
+Agile
+Scrum
+Ubuntu
+Red Hat
+Linux Networking
+Cisco
+Networking
+Linux
+Unix
+Virtualization
+VMware
+HP C Class Hardware
+windows 2008
+SecureWorks
+IT Security
+Firewall
+IT Security Architecture Web Designing
+Graphic graphics Designing
+HTML5
+HTML
+XHTML
+UI Designer
+UI
+Photoshop
+Adobe CS
+HTML+CSS 
+CSS3
+Responsive Web Design
+Web Design
+Visual Design
+Front End Web Developing
+JavaScript
+.net programming
+C# .Net
+dotnet programming
+ASP
+HTML5
+ASP.net
+Data and Analytics
+Database
+Data Analysis
+Marketing
+Online Marketing
+Problem solving
+Troubleshooting
+ITIL
+MS Office
+installing troubleshooting ADSL SDSL connections
+Oracle
+oracle 11g
+MS SQL 2008
+PHP
+PHP Programming
+Web Application
+OO Design
+HTML5
+HTML+CSS
+xHTML
+JavaScript
+Android
+iOS
+Graphic Design
+Adobe Creative Suite
+Adobe Suit
+Photoshop
+Flash
+Illustrator
+inDesign
+Microsoft Networking
+Windows server 2008 2012
+server 2012
+Oracle
+oracle 11g
+MS SQL 2008
+Linux
+Red Hat Linux
+Ubuntu
+Linux Networking
+Cisco
+Networking
+Network+
+Computer Hardware
+jsp
+php
+PHP MySQL
+PHP AJAX
+Microsoft based operating systems
+Networking LAN
+WAN
+Wi-Fi
+1st 2nd 3rd Line service desk helpdesk 
+environment
+Knowledge of Microsoft scripting and group policy
+Knowledge of Microsoft Exchange administration and maintenance
+Microsoft 
+Networking
+Windows server 2008
+server 2012
+Development and maintenance of project plans
+development of systems specifications and designs
+Microsoft SQL Database
+Oracle
+MS SQL
+HTML
+CSS3
+Javascript
+JQuery
+LAN
+WAN
+Nortel
+Expand
+VoIP
+VDI
+Backup and DR Solutions
+ipad
+iphone
+apps programming
+apps programming
+mac programming
+java
+c++
+ASP.NET
+C#
+SQL Server
+XML
+XHTML
+CSS
+JavaScript
+Android
+Apps Programming
+Software Programming
+Java
+expert knowledge of vb.net
+MS SQL and XML
+ASP.net
+Microsoft technologies
+HTML
+CSS
+SQL
+Moose
+Catalyst
+Object-Oriented OO 
+Programming
+Open source Oxford Oxfordshir
+object oriented
+WebSphere MQ
+WebSphere Message Broker
+Java
+XSLT
+XML
+MS Office
+MOS
+word
+excel
+powerpoint
+Access
+database
+Web Development
+Mainframe
+JCL
+Batch
+Web design
+hardware-level interfaces and user interfaces
+hardware-level interface and user interface
+excel
+SQL
+VB6 VB.NET ASP.NET
+Photoshop
+Fireworks
+Illustrator
+Database
+Oracle
+MS SQL
+Oracle
+oracle 11g
+MS SQL 
+2008
+software development
+ASP.net
+Microsoft technologies
+Networking
+Windows Server 2012
+ASP .Net Programming
+Software development
+PHP5
+CSS
+Magento
+C++
+C# Visual Studio .NET Framework
+Basic computer skills
+Computer Hardware
+Oracle applications
+AR
+AP
+GL
+Costing
+WIP and Pur
+Oracle applications
+AR
+AP
+GL
+Costing
+WIP and Pur
+Oracle applications
+AR
+AP
+GL
+Costing
+WIP and Pur
+Oracle applications
+AR
+AP
+GL
+Costing
+WIP and Pur
+WIP
+Purchasing
+knowledge of linux
+ability to write scripts in one scripting language
+.net programming
+C#
+.Net
+dotnet programming
+ASP
+HTML5
+ASP.net
+C++ with Visual Studio 2005+
+MFC
+OpenGL
+Open Cascade
+Spring or 
+Struts and JSP
+ruby
+rails
+web development
+agile
+knowledge in the practical networking area and have basic knowledge on HTML
+javascript and XML
+PHP
+OOP
+Linux
+MySQL
+java
+C
+C++
+Perl
+Photoshop
+Fireworks
+Illustrator
+C++
+C#
+Python Development
+Web Design
+Software
+Game Design
+Databases
+VB.NET
+C#
+ASP.NET
+SQL
+Access
+MySQL
+HTML
+Java Script
+Photoshop
+Dreamweaver
+XHTML
+CSS
+Database
+Oracle
+MS SQL
+Oracle
+oracle 11g
+MS SQL 2008
+knowledge of PHP and MySQL development
+An ability to read application code C
+Visual Basic
+CA OpenRoad or Java
+HTML
+CSS 
+and Javascript
+asp.net
+DHTML
+CSS
+Java Script
+Web
+knowledge of Class Student Management System
+business development
+Microsoft Networking
+Windows server 2008
+Java
+J2ee
+SQL server
+C#
+.NET
+Security systems
+Integrated Access control
+CCTV
+Bollards Barriers
+Door Entry
+Networking
+Windows Server 2012
+Software Programming
+Microsoft C# .Net
+Java 5
+J2EE
+Servlets
+JSP
+JSTL
+Struts
+Tiles
+Spring
+SQL
+XML
+XSLT
+Hibernate
+JDBC
+velocity
+Cisco
+Management and fault finding
+internet facing services Web
+DNS
+Mail
+Hardware manufacturer platforms HP
+Dell
+Sun
+Cisco and 
+IBM Server lines and associated peripherals
+Web Design
+Graphic Design
+Photoshop
+Flash
+Oracle EBS
+Oracle BI
+Hyperion
+Oracle FMW
+Network+
+Computer Hardware
+Java programming
+jsp
+Web Design
+Graphic Design
+Photoshop
+Flash
+Project scheduling software Hansoft
+MS Project or other
+PHP
+ASP.NET
+PROJECT MANAGEMENT
+CSS XHTML
+QA
+quality assurance
+.net programming
+C# .Net
+dotnet programming
+ASP
+HTML5
+ASP.net
+Web design 
+development
+Excellent PHP 4 & 5 OOP and MySQL development
+Java-Script Ajax
+jQuery and CSS
+Knowledge of cross-browser compatibility
+OpenVPN and LAMP server administration
+Knowledge of Smarty etc.
+IT Support
+strong skills in C#
+.NET
+iPhone
+iPad
+Apps programming
+software development
+java
+Network+
+Computer Hardware
+vba
+access
+reporting
+communication skills
+C#.NET
+JavaScript
+JQuery
+MS SQL
+XML
+Web Services
+C#.NET
+HTML4/5 CSS3 Javascript .NET Technologies c# or VB.NET SQL Server XML/XSLT
+Java programming
+Linux
+Redhat
+Red Hat
+Good understanding of core support processes i.e. ITIL
+Oracle E-Business Suite EBS
+COGNOS
+SQL
+stored procedures
+.Net 2.0 3.5
+ASP.Net 
+VB.Net C# 
+SQL Server 2005 2008
+Linux LAMP
+Java 6
+Hibernate
+Spring and Apache TomCat skills skill
+Programming and network
+Strong knowledge with windows server 
+environment including Windows sever 2003 R2
+Active Directory
+DNS
+DHCP
+Group Policy
+TCP/IP v4
+Networking
+Windows Server 2012
+Fully conversant with Microsoft Office Word and Excel
+able to use Internet
+draft letters and make calls
+iPhone
+iPad
+Apps programming
+software development
+jsp
+php
+PHP
+MySQL
+programming
+networking
+Web Design
+Graphic Design
+Photoshop
+Flash
+Android
+Apps Programming
+Software Programming
+Java
+Java 
+programming
+programming
+asp .net
+Database
+Oracle
+MS SQL
+a thorough knowledge of Adobe Photoshop
+Linux
+Ubuntu
+Unix
+system administration
+Linux
+Apache
+PHP
+MySQL
+Wordpress skills
+CSS
+JavaScript
+Web 2.0
+ASP Classic
+MSSQL & MSSQL Administration
+XHTML
+CSS and JavaScript
+Android
+Apps Programming
+Software Programming
+Java
+database skills including running queries
+filtering and manipulation of data
+importing and exporting data in various formats
