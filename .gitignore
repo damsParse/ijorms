@@ -1,2 +1,3 @@
-
+### Ignore these files to push to git
+__pycache__/
 
